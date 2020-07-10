@@ -5,7 +5,7 @@
 
 -  💻 Trabalhando como analista de suporte na **@TOTVS**
 -  💡 Conhecimento: ADVPL | MVC | REST |
--  :books: Estudando:  JavaScript | TypeScript | Angular | PO-UI :heart:
+-  :books: Estudando:  JavaScript | TypeScript | Angular | PO-UI
 
 <!--
 **VictorBassoon/VictorBassoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
