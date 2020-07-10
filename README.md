@@ -4,9 +4,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/leehcamposs2)
 [![Gmail Badge](https://img.shields.io/badge/-victoraraujovieira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victoraraujovieira@gmail.com)](mailto:victoraraujovieira@gmail.com)
 
--  💻: Trabalhando como analista de suporte na **@TOTVS**
--  💡: Techs: ADVPL | MVC | REST |
--  :books:  JavaScript | TypeScript | Angular | PO-UI :heart:
+-  💻 Trabalhando como analista de suporte na **@TOTVS**
+-  💡 Conhecimento: ADVPL | MVC | REST |
+-  :books: Estudando:  JavaScript | TypeScript | Angular | PO-UI :heart:
 
 <!--
 **VictorBassoon/VictorBassoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
